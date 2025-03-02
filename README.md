@@ -5,3 +5,5 @@ A responsive university website for showcasing courses, campus details, faciliti
 - HTML
 - CSS (Bootstrap, custom styles)
 - JavaScript
+
+you can see it :  https://mahmoudfattah.github.io/EduVerse-Website/ 
